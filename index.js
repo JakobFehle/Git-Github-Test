@@ -1,5 +1,6 @@
 function sayHello() {
-	console.log("Hello");
+	console.log("New Hello World");
 }
 
-sayHello(); // Print Hello Msg to Console
+// Test
+sayHello(); // Print New Hello Msg to Console
