@@ -1,5 +1,5 @@
 function sayHello() {
-	console.log("Hello World");
+	console.log("Hello");
 }
 
-sayHello();
+sayHello(); // Print Hello Msg to Console
